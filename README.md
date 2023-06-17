@@ -1,5 +1,7 @@
 # book-recommender-system
 
+<img src=https://github.com/hemantbuchade/book-recommender-system/blob/main/book.jpg arc="Books" width="100%">
+
 ### Problem Statement:
 
 Many users struggle to discover new books that align with their preferences and interests.
